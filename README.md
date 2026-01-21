@@ -1,5 +1,3 @@
-# spotify-ui-html-css🎧
-Spotify-inspired music UI built using HTML and CSS as a beginner practice project.
 # Spotify-Inspired Music UI 🎧
 
 This is a beginner-level project where I built a Spotify-inspired music player UI using HTML and CSS.
